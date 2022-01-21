@@ -1,4 +1,4 @@
-## Management System
+## 프로젝트 목적
 테스트
 
 # Getting Started with Create React App
